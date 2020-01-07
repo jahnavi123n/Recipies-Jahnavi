@@ -1,8 +1,5 @@
-	<<<<<< HEAD
-2 avocadoes
-=======
-2 avocadoes
->>>>>>> 97093083e7ed18a2627c87df3ee0b2e27e982d60
+
+4 avocadoes
 tomatoes
 lime
 onions
