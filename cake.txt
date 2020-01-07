@@ -1,0 +1,10 @@
+flour 
+eggs
+butter
+sugar
+chocolate
+water
+oil
+milk
+baking powder
+
